@@ -1,5 +1,5 @@
-# DeepLearning.AI TensorFlow Developer
-<a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice" target="blank">Link on Coursera</a>.
+# Coursera DeepLearning.AI TensorFlow Developer
+[Link on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
 
 ## Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
