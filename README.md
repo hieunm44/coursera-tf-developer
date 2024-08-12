@@ -1,95 +1,63 @@
-# Coursera DeepLearning.AI TensorFlow Developer
-[Link on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
+# [Coursera] DeepLearning.AI TensorFlow Developer
+
+<div align="center">
+    <img src="https://d15cw65ipctsrr.cloudfront.net/ab/8699caa15e413a812e1257b6027f07/Specialization-Logo.png" height=400"/>
+</div>
+
+This repository provides solutions for course assignments in the [Coursera DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice). There are a total of four couses in this certificate:
 
 ## Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+### Week 1 - A New Programming Paradigm
+__Assignment__: Housing Prices
 
-### Week 1
-* Assignment: Housing Prices
-* Lab 1: Hello World Neural Network
+### Week 2 - Introduction to Computer Vision
+__Assignment__: Handwriting Recognition
 
-### Week 2
-* Assignment: Handwriting Recognition
-* Lab 1: Beyond Hello World, A Computer Vision Example
-* Lab 2: Callbacks
+### Week 3 - Enhancing Vision with Convolutional Neural Networks
+__Assigment__: Improve MNIST with Convolutions
 
-### Week 3
-* Assigment: Improve MNIST with Convolutions
-* Lab 1: Improving Accuracy with Convolutions
-* Lab 2: Exploring Convolutions
-
-### Week 4
-* Assigment: Handling Complex Images
-* Lab 1: Image Generator 
-* Lab 2. Image Generator with Validation
-Lab 3: Compacted Images
+### Week 4 - Using Real-world Images
+__Assigment__: Handling Complex Images
 
 ## Course 2 - Convolutional Neural Networks in TensorFlow
+### Week 1 - Exploring a Larger Dataset
+__Assignment__: Cats vs. Dogs 
 
-### Week 1
-* Assignment: Cats vs. Dogs 
-* Lab 1: Using more sophisticated images with Convolutional Neural Networks
+### Week 2 - Augmentation: A Technique to Avoid Overfitting
+__Assignment__: Cats vs. Dogs using Augmentation
 
-### Week 2
-* Assignment: Cats vs. Dogs using Augmentation
-* Lab 1: Cats vs. Dogs with Augmentation 
-* Lab 2: Horses vs. Humans with Augmentation
+### Week 3  - Transfer Learning
+__Assignment__: Horses vs. Humans using Transfer Learning
 
-### Week 3 
-* Assignment: Horses vs. Humans using Transfer Learning
-* Lab 1: Exploring Transfer Learning
-
-### Week 4
-* Assignment: Multi-class Classifier 
-* Lab 1: Classifying Rock, Paper, and Scissors 
+### Week 4 - Multiclass Classifications
+__Assignment__: Multi-class Classifier 
 
 ## Course 3 - Natural Language Processing in TensorFlow
+### Week 1 - Sentiment in Text
+__Assignment__ Explore the BBC News Archive 
 
-### Week 1
-* Assignment Explore the BBC News Archive 
-* Lab 1: Simple Tokenizing 
-* Lab 2: Simple Sequences 
-* Lab 3: Sarcasm 
+### Week 2 - Word Embeddings
+__Assigment__: Categorizing the BBC News Archive 
 
-### Week 2
-* Assigment: Categorizing the BBC News Archive 
-* Lab 1: Positive or Negative IMDB Reviews 
-* Lab 2: Sarcasm Classifier 
-* Lab 3: IMDB Review Subwords 
+### Week 3 - Sequence Models
+__Assignment__: Exploring Overfitting in NLP _(C3W3_Assignment.ipynb)_
 
-### Week 3
-* Assignment: Exploring Overfitting in NLP _(C3W3_Assignment.ipynb)_
-* Lab 1: IMDB Subwords 8K with Single Layer LSTM
-* Lab 2: IMDB Subwords 8K with Multi Layer LSTM
-* Lab 3: IMDB Subwords 8K with 1D Convolutional Layer
-* Lab 4: IMDB Reviews with GRU (and optional LSTM and Conv1D)
-* Lab 5: Sarcasm with Bidirectional LSTM
-* Lab 6: Sarcasm with 1D Convolutional Layer
-
-### Week 4
-* Assignment: Writing Shakespeare with LSTMs 
-* Lab 1: NLP with Irish Music 
-* Lab 2: Generating Poetry from Irish Lyrics
+### Week 4 - Sequence Models and Literature
+__Assignment__: Writing Shakespeare with LSTMs 
 
 ## Course 4 - Sequences, Time Series and Prediction
+### Week 1 - Sequences and Prediction
+__Assignment__: Create and Predict Synthetic Data 
 
-### Week 1
-* Assignment: Create and Predict Synthetic Data 
-* Lab 1: Time Series 
-* Lab 2: Forecasting
+### Week 2 - Deep Neural Networks for Time Series
+__Assignment__: Predict with a DNN
 
-### Week 2
-* Assignment: Predict with a DNN
-* Lab 1: Preparing Features and Labels 
-* Lab 2: Single Layer Neural Network
-* Lab 3: Deep Neural Network 
+### Week 3 - Recurrent Neural Network for Time Series 
+__Assignment__: Using RNN's and LSTM's for time series 
 
-### Week 3
-* Assignment: Using RNN's and LSTM's for time series 
-* Lab 1: Recurrent Neural Network (RNN) 
-* Lab 2: Long Short-Term Memory (LSTM) 
+### Week 4 - Real-world Time Series Data
+__Assignment__: Daily Minimum Temperatures in Melbourne - Real Life Data
 
-### Week 4
-* Assignment: Daily Minimum Temperatures in Melbourne - Real Life Data
-* Lab 1: Long Short-Term Memory (LSTM)
-* Lab 2: Sunspots 
-* Lab 3: Sunspots - DNN Only
+<div align="center">
+    <img src="TensorFlow Developer.png" height=600"/>
+</div>
