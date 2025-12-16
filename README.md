@@ -4,7 +4,7 @@
     <img src="https://d15cw65ipctsrr.cloudfront.net/ab/8699caa15e413a812e1257b6027f07/Specialization-Logo.png" height=400"/>
 </div>
 
-This repository provides solutions for course assignments in the [Coursera DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice). There are a total of four couses in this certificate:
+Link: https://www.coursera.org/professional-certificates/tensorflow-in-practice
 
 ## Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 ### Week 1 - A New Programming Paradigm
@@ -59,5 +59,5 @@ __Assignment__: Using RNN's and LSTM's for time series
 __Assignment__: Daily Minimum Temperatures in Melbourne - Real Life Data
 
 <div align="center">
-    <img src="TensorFlow Developer.png" height=600"/>
+    <img src="TensorFlow_Developer.png" height=600"/>
 </div>
